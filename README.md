@@ -1,3 +1,5 @@
+Basically I cloned this project and modified it so I can read roofs from city models
+
 Solar3Dcity
 ===========
 
